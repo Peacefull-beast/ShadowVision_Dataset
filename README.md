@@ -33,6 +33,19 @@ To demonstrate the effectiveness of the ShadowVision Dataset, we have trained se
 - **Top-5 Accuracy:** The top-5 accuracy rates further underscore the robustness of our models, showcasing their capacity to handle complex scenes.
 
 
+**RESULT**
+
+-  **C3D:** Achieved top-1 accuracy of 51.41% and top-5 accuracy of 88.42%.
+-  **TSN:** Impressive performance with top-1 accuracy of 61.34% and top-5 accuracy of 91.55%.
+-  **R(2+1)D:** Demonstrated top-1 accuracy of 49.46% and top-5 accuracy of 83.84%.
+-  **I3D:** Notable results with top-1 accuracy of 51.41% and top-5 accuracy of 87.63%.
+-  **TSM:** Strong model with top-1 accuracy of 61.05% and top-5 accuracy of 89.58%.
+-  **C2D:** Robust performance, achieving top-1 accuracy of 61.34% and top-5 accuracy of 91.53%.
+-  **SWINBASE:** Delivered solid results with top-1 accuracy of 61.34% and top-5 accuracy of 87.63%.
+-  **TIMESFORMER:** Achieved top-1 accuracy of 48.78% and top-5 accuracy of 87.24%.
+
+These models offer diverse capabilities for video analysis and computer vision tasks, making them valuable tools for enhancing deep learning in low-light environments.
+
 **Applications:**
 
 The ShadowVision Dataset has a broad range of applications, including:
