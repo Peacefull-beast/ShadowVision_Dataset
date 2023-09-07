@@ -57,4 +57,4 @@ The ShadowVision Dataset has a broad range of applications, including:
 
 **Conclusion:**
 
-The ShadowVision Dataset represents a significant milestone in addressing the challenges of low-light computer vision. By offering a rich source of synthetic dark videos paired with normal videos, accompanied by annotations, it empowers deep learning models to excel in low-light environments. The dataset is a testament to the transformative potential of synthetic data generation in advancing computer vision, paving the way for safer, more efficient, and more accurate visual recognition systems in challenging lighting conditions.
+The __ShadowVision_Dataset__ represents a significant milestone in addressing the challenges of low-light computer vision. By offering a rich source of synthetic dark videos paired with normal videos, accompanied by annotations, it empowers deep learning models to excel in low-light environments. The dataset is a testament to the transformative potential of synthetic data generation in advancing computer vision, paving the way for safer, more efficient, and more accurate visual recognition systems in challenging lighting conditions.
