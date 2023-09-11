@@ -1,4 +1,4 @@
-**Title: ShadowVision Dataset: Illuminating Deep Learning in Low-Light Environments**
+# Title: ShadowVision Dataset: Illuminating Deep Learning in Low-Light Environments
 
 **Abstract:**
 
@@ -33,7 +33,7 @@ To demonstrate the effectiveness of the ShadowVision Dataset, we have trained se
 - **Top-5 Accuracy:** The top-5 accuracy rates further underscore the robustness of our models, showcasing their capacity to handle complex scenes.
 
 
-**RESULT**
+## RESULT
 
 -  **C3D:** Achieved top-1 accuracy of 51.41% and top-5 accuracy of 88.42%.
 -  **TSN:** Impressive performance with top-1 accuracy of 61.34% and top-5 accuracy of 91.55%.
@@ -55,6 +55,6 @@ The ShadowVision Dataset has a broad range of applications, including:
 3. **Security:** Improved security camera systems for dark environments.
 4. **Entertainment:** Enhanced video quality in film and television production.
 
-**Conclusion:**
+## Conclusion:
 
 The __ShadowVision_Dataset__ represents a significant milestone in addressing the challenges of low-light computer vision. By offering a rich source of synthetic dark videos paired with normal videos, accompanied by annotations, it empowers deep learning models to excel in low-light environments. The dataset is a testament to the transformative potential of synthetic data generation in advancing computer vision, paving the way for safer, more efficient, and more accurate visual recognition systems in challenging lighting conditions.
